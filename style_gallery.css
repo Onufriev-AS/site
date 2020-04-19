@@ -106,24 +106,6 @@ body {
   padding: 0;
 }
 
-.skills-list dt {
-  padding-left: 32px;
-  background-repeat: no-repeat;
-  background-position: left;
-}
-
-.skill-java{
-  /* background-image: url("img/icon-java.png"); */
-}
-
-.skill-html {
-  /* background-image: url("img/icon-html.svg"); */
-}
-
-.skill-css {
-  /* background-image: url("img/icon-css.svg"); */
-}
-
 .level {
   margin: 4px 0 16px;
   padding: 0;
