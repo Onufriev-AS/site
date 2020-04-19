@@ -6,7 +6,6 @@ body {
   line-height: 32px;
   color: #222222;
   background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -34,6 +33,9 @@ body {
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
+}
+.header-home{
+  text-align: left;
 }
 
 .header-email {
