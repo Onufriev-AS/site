@@ -89,6 +89,10 @@ body {
   text-align: center;
 }
 
+.gallery{
+  text-align: center;
+}
+
 .intro h3,
 .portfolio h3 {
   margin: 0 0 12px;
